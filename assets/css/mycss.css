@@ -17,6 +17,10 @@ article.ubufont, div.ubufont, li.ubufont {
 	font-size: 16px;
 }
 
+li, ul {
+  list-style-type: none;
+}
+
 
 /*---------------------- HR Animation -------------------------*/
 div.hidden {
